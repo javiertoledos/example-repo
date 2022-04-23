@@ -8,6 +8,7 @@ Bien y tu
 * lista
 * numerada
 * otro item
+* planificar como cambiar el mundo
 * cambiar el mundo
 
 | nombre | valor |
